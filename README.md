@@ -1,6 +1,10 @@
 # IMDB_Movie_Chatbot
 This repository contains the code for an AI-powered IMDb Movie Chatbot in a Google Colab Notebook. Leveraging Natural Language Processing (NLP), Large Language Models (LLMs) and AI Agent, the chatbot provides users with an interactive and conversational way to explore movie data.  It can answer questions about movies, provide recommendations, and offer details sourced from the IMDb dataset.  The application includes data preprocessing, exploratory data analysis, a GPT-based chatbot implementation, and a Gradio-based user interface.  An agentic architecture is included to provide movie trends.
 
+## Architectural Diagram
+
+<img src="https://github.com/techllen/Savannah-canopy/blob/main/screenshots/Self%20Healing%20Application%20Pipeline%20Architecture-Page-2.jpg" alt="Pipeline Architecture">
+
 ## Overview
 
 This project implements an AI-powered chatbot that interacts with users to provide information and recommendations about movies. By utilizing Natural Language Processing (NLP) and Large Language Models (LLMs), the chatbot offers a conversational interface to explore the IMDb dataset.
