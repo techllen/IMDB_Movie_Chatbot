@@ -20,6 +20,7 @@ This project implements an AI-powered chatbot that interacts with users to provi
 * LangChain Hub
 * LangChain OpenAI
 * LangChain Community
+* LangGraph
 * FAISS
 * Gradio
 * Pandas
