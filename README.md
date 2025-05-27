@@ -3,7 +3,7 @@ This repository contains the code for an AI-powered IMDb Movie Chatbot in a Goog
 
 ## Architectural Diagram
 
-<img src="https://github.com/techllen/Savannah-canopy/blob/main/screenshots/Self%20Healing%20Application%20Pipeline%20Architecture-Page-2.jpg" alt="Pipeline Architecture">
+<img src="https://github.com/techllen/IMDB_Movie_Chatbot/blob/main/diagrams/IMDB_Chatbot_Architecture.png" alt="Architecture">
 
 ## Overview
 
